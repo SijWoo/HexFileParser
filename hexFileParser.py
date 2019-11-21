@@ -5,8 +5,8 @@
 
   author: Sijin Woo
 '''
-fileName = 'leftSpeedDump'		# Change to match hex file name
-length = 8						# Change to match size of each element 
+fileName = 'file'		# Change to match hex file name
+length = 8						# Change to match size of each element in bytes
 								# 4 = 16 bytes, 8 = 32 bytes
 
 data = []
